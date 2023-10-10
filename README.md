@@ -37,14 +37,14 @@
    <a href="https://www.python.org/" target="_blank">
     <img src="https://user-images.githubusercontent.com/55011564/208604780-4285f312-0da5-4641-b847-4d96be47b8ff.png" alt="Python" width="96" height="96"/> 
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://user-images.githubusercontent.com/55011564/208604607-c614eea6-91f6-40c1-a180-043a6f678295.png" alt="JavaScript" width="96" height="96"/> 
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://user-images.githubusercontent.com/55011564/208604076-afe47e54-1208-47a9-a29c-39f8e33a52d3.png" alt="html5" width="96" height="96"/> 
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://user-images.githubusercontent.com/55011564/208604401-7c01bd19-3cc5-4f07-a276-f56168942dff.png" alt="css5" width="96" height="96"/> 
+  </a>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://user-images.githubusercontent.com/55011564/208604607-c614eea6-91f6-40c1-a180-043a6f678295.png" alt="JavaScript" width="96" height="96"/> 
   </a>
 </p>
 
