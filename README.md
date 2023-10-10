@@ -31,11 +31,11 @@
   <a href="https://en.cppreference.com/w/cpp" target="_blank">
     <img src="https://user-images.githubusercontent.com/55011564/208605132-87fe4296-7414-420b-953f-a3b73dab42cb.png" alt="cplusplus" width="96" height="96"/> 
   </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/55011564/208604780-4285f312-0da5-4641-b847-4d96be47b8ff.png" alt="Python" width="96" height="96"/> 
-  </a>
   <a href="https://www.java.com/en/" target="_blank">
     <img src="https://user-images.githubusercontent.com/55011564/208604989-107257e3-41d1-4a46-b200-76a350eec18f.png" alt="Java" width="96" height="96"/> 
+  </a>
+   <a href="https://www.python.org/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/55011564/208604780-4285f312-0da5-4641-b847-4d96be47b8ff.png" alt="Python" width="96" height="96"/> 
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://user-images.githubusercontent.com/55011564/208604607-c614eea6-91f6-40c1-a180-043a6f678295.png" alt="JavaScript" width="96" height="96"/> 
@@ -46,8 +46,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://user-images.githubusercontent.com/55011564/208604401-7c01bd19-3cc5-4f07-a276-f56168942dff.png" alt="css5" width="96" height="96"/> 
   </a>
-  
 </p>
+
+<br>
 
 ## Frameworks and Tools:
 
@@ -82,11 +83,6 @@
 ![Unity](https://img.shields.io/badge/Unity_3D-202020?style=for-the-badge&logo=Unity&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
-
-## Technical Projects:
-
-
-
-
+<br>
 ##
 You can reach me on my mail: chandansinghcs9536+work@gmail.com
