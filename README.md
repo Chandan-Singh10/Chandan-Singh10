@@ -24,47 +24,11 @@
 
 
 ## About Me:
-I am a Computer Science Master's student at Emory University with a strong foundation in software development and computer systems. Through diverse internships spanning 2 years, I've honed my skills in Python, Java, and JavaScript, along with frameworks like Next, React, and Node.
 
-I thrive on tackling complex challenges and translating ideas into innovative solutions. In one memorable instance, I played a key role in developing algorithms that reduced execution times of critical section pipelines by over 80%. My commitment to excellence drives me to go beyond the ordinary and achieve exceptional results.
-
-Collaboration is at the heart of my approach. I've had the privilege of working in cross-functional teams where my natural affinity for inspiring and assisting others led to successful project outcomes. Whether it's coding or contributing ideas, I'm driven by a genuine passion to bring concepts to life.
-
-As I embark on the next phase of my journey, I'm eager to connect with fellow professionals, share insights, and explore potential synergies. If you're as enthusiastic about innovation and growth as I am, let's connect and explore the possibilities.
 
 ## Past Experience:
 Notable firms I have worked with:
-<p align = "center">
-  <a href="https://watto.ai" target="_blank">
-    <img src="https://logos-download.com/wp-content/uploads/2016/11/Y_Combinator_logo_text_wordmark.png" width="400"/>
-  </a>
-  <a href="https://www.emory.edu/" target="_blank">
-    <img src="https://cdn.freebiesupply.com/logos/large/2x/emory-university-logo-png-transparent.png" width="400"/>
-  </a>
-  <a href="https://rakuten.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Rakuten_Global_Brand_Logo.svg/2560px-Rakuten_Global_Brand_Logo.svg.png" width="400"/>
-  </a>
-</p>
-<!-- ## My skills include:
-- Data Structures and Algorithms
-- Problem Solving
-- Android Development
-- Game Programming
-- Full-stack Web Development
-- Python Programming
 
-Additionally, I am also an active competitive programmer, who regularly participates in programming competitions on CodeChef(Rated: 1818) and Hackerrank (6 stars in C++). In my second semester, I achieved 34th rank in an intra-college programming competition which was attended by students of all disciplines and years. -->
-
-<!-- ## Languages and Frameworks:
-![C](https://img.shields.io/badge/C-27338e?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-649ad2?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-important?style=for-the-badge&logo=Java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-success?style=for-the-badge&logo=Express&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-ffffff?style=for-the-badge&logo=Node.js&logoColor=fffff)
-![JavaScript](https://img.shields.io/badge/Javascript-ffd700?style=for-the-badge&logo=Javascript&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white) -->
 
 ## Languages:
 <p align="center">
@@ -127,24 +91,8 @@ Additionally, I am also an active competitive programmer, who regularly particip
 
 
 ## Technical Projects:
-- [Sorting Visualizer](https://github.com/AdityaPrakash-26/Sorting-Visualizer) <img align='right' src="https://img.shields.io/badge/HTML5-E34F26?style&logo=html5&logoColor=white"> <img align='right' src="https://img.shields.io/badge/CSS3-1572B6?style&logo=css3&logoColor=white"> <img align='right' src="https://img.shields.io/badge/Javascript-ffd700?style&logo=Javascript&logoColor=white">
-- [VSCode-WorkAt](https://github.com/AdityaPrakash-26/VSCode-WorkAt) <img align='right' src="https://img.shields.io/badge/Javascript-ffd700?style&logo=Javascript&logoColor=white"> <img align='right' src="https://img.shields.io/badge/Axios-39a173?style&logo=Axios&logoColor=black"> <img align='right' src="https://img.shields.io/badge/Visual_Studio_Code_API-0078D4?style&logo=visual%20studio%20code&logoColor=white"> 
-- [Color Detection in Python](https://github.com/AdityaPrakash-26/ColorDetectionProject) <img align='right' src="https://img.shields.io/badge/Pandas-150458?style&logo=Pandas&logoColor=white"> <img align='right' src="https://img.shields.io/badge/OpenCV-27338e?style&logo=OpenCV&logoColor=white"> <img align='right' src="https://img.shields.io/badge/Python-3776AB?style&logo=Python&logoColor=white">  
-- [Lane Line Detection](https://github.com/AdityaPrakash-26/Lane-Detection)<img align='right' src="https://img.shields.io/badge/Numpy-777BB4?style&logo=numpy&logoColor=white"><img align='right' src="https://img.shields.io/badge/OpenCV-27338e?style&logo=OpenCV&logoColor=white"> <img align='right' src="https://img.shields.io/badge/Python-3776AB?style&logo=Python&logoColor=white">
-- [Sounds wave visualizer in Unreal Engine](https://github.com/AdityaPrakash-26/SoundWaveVisualizer) <img align='right' src="https://img.shields.io/badge/Unreal-181717?style&logo=Unreal-Engine&logoColor=white"> <img align='right' src="https://img.shields.io/badge/C++-649ad2?style&logo=c%2B%2B&logoColor=white">
-- [Speech Recognition in Android Maps](https://github.com/AdityaPrakash-26/Speech-Recognition-Project)<img align='right' src="https://img.shields.io/badge/Android_Studio-3DDC84?style&logo=Android-Studio&logoColor=ffffff"><img align='right' src="https://img.shields.io/badge/-Java-important?style&logo=Java&logoColor=white">
-- [COVID-19 Tracker](https://github.com/AdityaPrakash-26/covid-19-tracker)<img align='right' src="https://img.shields.io/badge/Beautiful_Soup_4-E31231"><img align='right' src="https://img.shields.io/badge/Python-3776AB?style&logo=python&logoColor=white">
-- [Library Management System](https://github.com/AdityaPrakash-26/Library-Management-System) <img align='right' src="https://img.shields.io/badge/Node.js-ffffff?style&logo=Node.js&logoColor=fffff"> <img align='right' src="https://img.shields.io/badge/express.js-%23404d59.svg?style&logo=express&logoColor=%2361DAFB"> <img align='right' src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"> <img align='right' src="https://img.shields.io/badge/HTML5-E34F26?style&logo=html5&logoColor=white"> <img align='right' src="https://img.shields.io/badge/CSS3-1572B6?style&logo=css3&logoColor=white"> <img align='right' src="https://img.shields.io/badge/Javascript-ffd700?style&logo=Javascript&logoColor=white"> 
 
-<!-- ## Projects:
-- [The i-SCHOOL](https://theischool.com/) <img align='right' src="https://img.shields.io/badge/Node.js-ffffff?style&logo=Node.js&logoColor=fffff"> <img align='right' src="https://img.shields.io/badge/express.js-%23404d59.svg?style&logo=express&logoColor=%2361DAFB"> <img align='right' src="https://img.shields.io/badge/Bootstrap-563D7C?style&logo=bootstrap&logoColor=white"> <img align='right' src="https://img.shields.io/badge/HTML5-E34F26?style&logo=html5&logoColor=white"> <img align='right' src="https://img.shields.io/badge/CSS3-1572B6?style&logo=css3&logoColor=white"> <img align='right' src="https://img.shields.io/badge/Javascript-ffd700?style&logo=Javascript&logoColor=white"> 
-- School Management System <img align='right' src="https://img.shields.io/badge/-Java-important?style&logo=Java&logoColor=white"> <img align='right' src="https://img.shields.io/badge/Android-3DDC84?style&logo=android&logoColor=white"> <img align='right' src="https://img.shields.io/badge/Firebase-000000.svg?style&logo=firebase"> <img align='right' src="https://img.shields.io/badge/Firestore-000000.svg?style&logo=firebase"> <img align='right' src="https://img.shields.io/badge/Figma-F24E1E?style&logo=figma&logoColor=white">  -->
-<!-- 
-## Workspace:
-![iMac](https://img.shields.io/badge/Apple-iMac_2015-999999?style=for-the-badge&logo=apple&logoColor=white)
-![Processor](https://img.shields.io/badge/Intel-Core_i5_6th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![RAM](https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white)
-![GPU](https://img.shields.io/badge/AMD-Radeon_R9_M395-ED1C24?style=for-the-badge&logo=amd&logoColor=white) -->
+
 
 
 ##
