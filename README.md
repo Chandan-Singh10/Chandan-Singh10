@@ -1,6 +1,6 @@
-<!-- <h1 align='center'>
-  Hello there! 👋 I'm Aditya
-</h1> -->
+ <h1 align='center'>
+  Hello there! 👋 I'm Chandan
+</h1> 
 
 <p align='center'>
   <img alt="Hello! I am Chandan" src="https://capsule-render.vercel.app/api?section=header&type=waving&height=200&color=gradient&text=Hello%20there!%20%F0%9F%91%8B%20I%20am%20Aditya&fontSize=48&fontAlignY=35&desc=I%20am%20a%20full%20stack%20developer&descAlignY=55&descAlign=62"
