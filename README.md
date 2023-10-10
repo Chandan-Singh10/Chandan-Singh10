@@ -1,6 +1,11 @@
  <h1 align='center'>
   Hello there! 👋 I'm Chandan
-</h1> 
+</h1>
+<br>
+
+<h3 align='center'>
+  I am a full stack developer
+</h3>
 
 <p align='center'>
  
