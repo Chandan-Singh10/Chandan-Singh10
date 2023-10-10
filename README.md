@@ -23,13 +23,6 @@
 </p>
 
 
-## About Me:
-
-
-## Past Experience:
-Notable firms I have worked with:
-
-
 ## Languages:
 <p align="center">
   <a href="https://en.cppreference.com/w/c" target="_blank">
