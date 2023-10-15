@@ -8,9 +8,6 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-  </a>
-  <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-00BB00?style=for-the-badge"/>
   </a>
   <br>
