@@ -4,7 +4,6 @@
 
 <p align='center'>
  
- 
   <a href="https://www.linkedin.com/in/chandan-singh10">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -13,8 +12,6 @@
   </a>
   <br>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=Chandan-Singh10&color=green&label=+Developers+Inspired"/>
-  <br>
   <a href="#" target="_blank">
    <img width="1440" alt="Screenshot 2023-11-14 at 12 40 48 PM" src="https://github.com/Chandan-Singh10/Chandan-Singh10/assets/72159043/cc0cc9b0-1ef0-4a74-a81c-1eeefb47b66b">
   </a>
@@ -22,7 +19,7 @@
   <br>
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=adityaprakash-26&show_icons=true&count_private=true&theme=dark" height="175">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaprakash-26&layout=compact&theme=dark&hide=css,html" height = "175"> -->
-  
+   <img src="https://komarev.com/ghpvc/?username=Chandan-Singh10&color=green&label=+Developers+Inspired"/>
 </p>
 
 ## About Me:
