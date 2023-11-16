@@ -12,7 +12,7 @@
   </a>
   <br>
   <br>
-  <a href="#" target="_blank">
+  <a href="https://chandan-singh10.github.io/Portfolio/" target="_blank">
    <img width="1440" alt="Screenshot 2023-11-14 at 12 40 48 PM" src="https://github.com/Chandan-Singh10/Chandan-Singh10/assets/72159043/cc0cc9b0-1ef0-4a74-a81c-1eeefb47b66b">
   </a>
   <br>
