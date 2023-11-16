@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/chandan-singh10">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="#">
+  <a href="https://chandan-singh10.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-00BB00?style=for-the-badge"/>
   </a>
   <br>
