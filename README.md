@@ -44,12 +44,6 @@ Passionate about continuous learning and taking on new challenges, I have a knac
 
 ## Languages:
 <p align="center">
-  <a href="https://en.cppreference.com/w/c" target="_blank">
-    <img src="https://user-images.githubusercontent.com/55011564/208605259-4e582933-5227-43e5-9e9a-7d01757a4b58.png" alt="c" width="96" height="96"/> 
-  </a> 
-  <a href="https://en.cppreference.com/w/cpp" target="_blank">
-    <img src="https://user-images.githubusercontent.com/55011564/208605132-87fe4296-7414-420b-953f-a3b73dab42cb.png" alt="cplusplus" width="96" height="96"/> 
-  </a>
   <a href="https://www.java.com/en/" target="_blank">
     <img src="https://user-images.githubusercontent.com/55011564/208604989-107257e3-41d1-4a46-b200-76a350eec18f.png" alt="Java" width="96" height="96"/> 
   </a>
