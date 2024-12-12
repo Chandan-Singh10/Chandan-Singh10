@@ -74,12 +74,13 @@ Passionate about continuous learning and taking on new challenges, I have a knac
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NodeJS](https://img.shields.io/badge/Node.js-ffffff?style=for-the-badge&logo=Node.js&logoColor=fffff) <br>
+![NodeJS](https://img.shields.io/badge/Node.js-ffffff?style=for-the-badge&logo=Node.js&logoColor=fffff) <br> <br>
 
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 <br>
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![FireBase](https://img.shields.io/badge/firebase-000000.svg?style=for-the-badge&logo=firebase)
@@ -106,7 +107,7 @@ Passionate about continuous learning and taking on new challenges, I have a knac
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![Unreal](https://img.shields.io/badge/Unreal_Engine_4-181717?style=for-the-badge&logo=Unreal-Engine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity_3D-202020?style=for-the-badge&logo=Unity&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+
 
 <br>
 
