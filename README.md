@@ -71,10 +71,11 @@ Passionate about continuous learning and taking on new challenges, I have a knac
 
 ## Frameworks and Tools:
 
-![NodeJS](https://img.shields.io/badge/Node.js-ffffff?style=for-the-badge&logo=Node.js&logoColor=fffff)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-ffffff?style=for-the-badge&logo=Node.js&logoColor=fffff)
+<br>
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![FireBase](https://img.shields.io/badge/firebase-000000.svg?style=for-the-badge&logo=firebase)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
